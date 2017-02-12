@@ -24,3 +24,6 @@ then atlast type python test.py in cmd.
 
 usally if there are more website it will take some time to get the result.
 
+
+Note :- In our source sode we have written one try and except block . Many times there are cases when a website doesn't responsde and it will through IOError and your programe will come to halt . So sort out this problem we have written that exception block where it will handle such exception 
+
